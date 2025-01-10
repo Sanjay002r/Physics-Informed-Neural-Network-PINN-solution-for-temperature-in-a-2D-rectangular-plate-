@@ -1,0 +1,1 @@
+# Physics-Informed-Neural-Network-PINN-solution-for-temperature-in-a-2D-rectangular-plate-
